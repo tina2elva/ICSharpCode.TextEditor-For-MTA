@@ -1,3 +1,0 @@
-C:\taiji\OPCGate\ICSharpCode.TextEditor\bin\Release\ICSharpCode.TextEditor.dll
-C:\taiji\OPCGate\ICSharpCode.TextEditor\obj\Release\ICSharpCode.TextEditor.csproj.CoreCompileInputs.cache
-C:\taiji\OPCGate\ICSharpCode.TextEditor\obj\Release\ICSharpCode.TextEditor.dll
